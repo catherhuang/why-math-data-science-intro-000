@@ -30,8 +30,11 @@ Now as our models become more complex and there are more levers to pull, having 
 
 ### Summary
 
+
 So in summary:
-* we'll use other types of models beyond drawing a regression line.  
+
+* we'll use other types of models beyond drawing a regression line. **
+* 
 * However, there will be loss functions.  
 * And we will want adapt our model so that it begins to minimize the output from our loss function.  
 * That is training our model.  
@@ -40,3 +43,9 @@ So in summary:
 So moving along that loss function to approach the minimum in a structured way requires math, and derivatives.  
 
 The sections that follow will take a deep dive into mathematics and that will underly our future machine learning techniques.  Taking this exploration will allow us to understand our current machine learning model of gradient descent, as well how we can train other machine learning models in the future.
+
+
+
+
+
+
