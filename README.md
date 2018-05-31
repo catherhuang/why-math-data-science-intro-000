@@ -31,7 +31,7 @@ Now as our models become more complex and there are more levers to pull, having 
 ### Summary
 
 
-So in summary:
+###So in summary:
 
 * we'll use other types of models beyond drawing a regression line. **
 * 
